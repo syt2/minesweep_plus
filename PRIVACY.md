@@ -37,4 +37,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ### Contact
 
 If you have any questions about this Privacy Policy, please contact us at:
-- GitHub Issues: https://github.com/syt2/minesweep_plus/issues
+- [GitHub Issues](https://github.com/syt2/minesweep_plus/issues)

@@ -41,7 +41,7 @@ A: Yes! Minesweep+ is completely offline and does not require an internet connec
 
 If you encounter any bugs or have feature requests, please contact us:
 
-- **GitHub Issues**: https://github.com/syt2/minesweep_plus/issues
-- **Email**: dreamcontinue.cd@icloud.com
+- [GitHub Issues](https://github.com/syt2/minesweep_plus/issues)
+- [Email](dreamcontinue.cd@icloud.com)
 
 We appreciate your feedback and will respond as soon as possible.
